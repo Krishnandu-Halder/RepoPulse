@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { githubService } from '../../services/githubAPI';
+import { githubService } from '../../Services/githubAPI';
 
 const EnhancedGitHubProfileComparison = ({ username1, username2 }) => {
   const [profile1, setProfile1] = useState(null);
