@@ -297,6 +297,6 @@ With its modular structure, clean codebase, and robust features, it stands as bo
 - Developer: Krishnandu Halder
 - Contact: Krishnandu.work@gmail.com
 
-- GitHub Repository: Your Project URL
+- GitHub Repository: [URL](https://github.com/Krishnandu-Halder/RepoPulse)
 
-- Live Demo: Your Deployment URL
+- Live Demo: [URL](https://repopulse.netlify.app/)
